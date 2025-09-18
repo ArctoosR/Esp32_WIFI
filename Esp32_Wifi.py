@@ -4,8 +4,8 @@ import time
 from machine import Pin
 
 # Replace with your network credentials
-SSID = "farasens_kosar"
-PASSWORD = "farasens2002"
+SSID = "Name_Wifi"
+PASSWORD = "Password_Wifi"
 
 # Set up GPIO pins
 output12 = Pin(2, Pin.OUT)
